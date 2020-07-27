@@ -9,3 +9,7 @@ npm init
 npm install express jsonwebtoken bcryptjs body-parser cors mongoose env-cmd --save
 
 npm install nodemon --save-dev
+
+Read article at https://www.phpexpertise.com/authentication-app-using-jwt-in-node-js/
+
+PHPEXERTISE is a Tech Blog. Please visit our blog at https://www.phpexpertise.com
